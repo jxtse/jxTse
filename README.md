@@ -5,10 +5,7 @@
 - 📫 You can connect me through [LinkedIn](https://www.linkedin.com/in/jinxiang-xie/)
 - 🏠 HomePage: [Richard's Secret Cabin](jxtse.github.io)
 
-<div>
-  <a href="https://www.linkedin.com/in/jinxiang-xie/"><img src="linkedin.svg" width="30%" height=120 alt="linkedIn Jinxiang Xie"></a>
-  <a href="https://jxtse.github.io/"><img src="主页.svg" width="40%" height=120 alt="Richard's Personal Site"></a>
-  <a href="https://www.xiaohongshu.com/user/profile/60c47bae000000000100b07e"><img src="小红书.svg" width="30%" height=120 alt="Richard's articles"></a>
+  <a href="#"><img width="100%" height="auto" src="https://cloud-qff8vx2e4-hack-club-bot.vercel.app/0tumblr_e9bfa274567551e77b34fb3157cffdbc_c300ac4c_540.gif.webp" height="175px"/></a>
 
 <!--
 **jxTse/jxTse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
