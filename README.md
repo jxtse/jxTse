@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Mathemetics & Computer Science
 - 👯 I’m looking to collaborate on **Responsible AI**, **NLP** and **HCI** and any other interesting things
 - 📫 You can connect me through [LinkedIn](https://www.linkedin.com/in/jinxiang-xie/)
-- 🏠 HomePage: [Richard's Secret Cabin](jxtse.github.io)
+- 🏠 HomePage: [Richard's Secret Cabin](https://jxtse.github.io/)
 
   <a href="#"><img width="100%" height="auto" src="https://cloud-qff8vx2e4-hack-club-bot.vercel.app/0tumblr_e9bfa274567551e77b34fb3157cffdbc_c300ac4c_540.gif.webp" height="175px"/></a>
 
