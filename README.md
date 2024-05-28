@@ -1,7 +1,7 @@
 # 💫 About Me:
 
 - 🌱 I’m currently learning Mathemetics & Computer Science
-- 👯 I’m looking to collaborate on **Responsible AI**, **NLP** and **Computational Social Science** and any other interesting things
+- 👯 I’m looking to collaborate on **Responsible AI**, **Natural Language Processing** and **Computational Social Science** and any other interesting things
 - 📫 You can connect me through [LinkedIn](https://www.linkedin.com/in/jinxiang-xie/)
 - 🏠 HomePage: [Richard's Secret Cabin](https://jxtse.github.io/)
 
