@@ -1,7 +1,7 @@
 # 💫 About Me:
 
 - 🌱 I’m currently learning Mathemetics & Artificial Intelligence
-- 👯 I’m looking to collaborate on **Large Language Models**, **Natural Language Processing** and **Computational Social Science** and any other interesting things
+- 👯 I’m looking to collaborate on **Large Language Models**, **Natural Language Processing** and any other interesting things
 - 📫 You can connect me through [LinkedIn](https://www.linkedin.com/in/jinxiang-xie/)
 - 🏠 HomePage: [Jinxiang Xie - Homepage](https://jxtse.github.io/)
 
